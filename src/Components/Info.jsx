@@ -12,7 +12,7 @@ function Info(){
             <div className="info-container">
                 <h1 className="title">Pratik Talaviya</h1>
                 <h3 className="position">Frontend Developer</h3>
-                <p className="website">laurasmith.website</p>
+                <p className="website">pratiktalaviya.website</p>
                 <div className="btn-container">
                     <button className="email-btn">
                         <img src={MailLogo} alt="logo"/>
