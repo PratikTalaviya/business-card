@@ -1,6 +1,6 @@
 import React from "react";
 import Description from "./Description";
-import ProfilePicture from "../Images/Rectangle 90.png"
+import ProfilePicture from "../Images/Mr Bean.jpg"
 import "./info.css"
 import MailLogo from "../Images/Mail.png"
 import LinkedInLogo from "../Images/linkedin.png"
@@ -10,7 +10,7 @@ function Info(){
         <div className="container">
             <img src={ProfilePicture} alt="profile"/>
             <div className="info-container">
-                <h1 className="title">Laura Smith</h1>
+                <h1 className="title">Pratik Talaviya</h1>
                 <h3 className="position">Frontend Developer</h3>
                 <p className="website">laurasmith.website</p>
                 <div className="btn-container">
