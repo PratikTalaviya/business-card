@@ -1,0 +1,20 @@
+.description-title{
+    margin: 0%;
+    color: #F5F5F5;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.content{
+    margin: 0 0 5px 0;
+    color: #DCDCDC;
+    font-family: Inter;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: justify;
+    line-height: 15px; 
+}
